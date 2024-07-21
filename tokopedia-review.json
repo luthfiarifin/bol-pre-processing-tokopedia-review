@@ -1,0 +1,2059 @@
+{
+    "productrevGetProductReviewList": {
+        "productID": "306410051",
+        "list": [
+            {
+                "id": "1067499431",
+                "variantName": "",
+                "message": "penjual fast respon. packing aman. barang sesuai pesanan. terimakasih",
+                "productRating": 5,
+                "reviewCreateTime": "1721324775",
+                "reviewCreateTimestamp": "3 hari lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "129732194",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2024/7/18/a8b6aa47-473f-4838-816e-104a0b8792a3.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2024/7/18/a8b6aa47-473f-4838-816e-104a0b8792a3.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "3 hari lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "r***o",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "1053951835",
+                "variantName": "",
+                "message": "joss",
+                "productRating": 5,
+                "reviewCreateTime": "1718623976",
+                "reviewCreateTimestamp": "1 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "127551273",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2024/6/17/28e73e14-5714-4a3a-98a5-a2956ad056c9.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2024/6/17/28e73e14-5714-4a3a-98a5-a2956ad056c9.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "1 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "3142162",
+                    "fullName": "Arif",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/3142162/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/3142162",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "136 ulasan lengkap",
+                        "count": 136,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "8 terbantu",
+                        "count": 8,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "1047128326",
+                "variantName": "",
+                "message": "👍",
+                "productRating": 5,
+                "reviewCreateTime": "1717212868",
+                "reviewCreateTimestamp": "1 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "1 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "105239617",
+                    "fullName": "Raisnain",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/105239617/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/105239617",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "1 ulasan lengkap",
+                        "count": 1,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "1044386801",
+                "variantName": "",
+                "message": "ok",
+                "productRating": 5,
+                "reviewCreateTime": "1716670823",
+                "reviewCreateTimestamp": "1 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "1 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "A***A",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "1042399015",
+                "variantName": "",
+                "message": "Produk original\nPackaging rapi\nRespon seller gercep banget\nPengiriman juga cepat......",
+                "productRating": 5,
+                "reviewCreateTime": "1716303333",
+                "reviewCreateTimestamp": "2 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "125638314",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2024/5/21/671f3b54-598c-4a17-af84-e38786bc2952.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2024/5/21/671f3b54-598c-4a17-af84-e38786bc2952.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "2 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "98851626",
+                    "fullName": "Feri",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/98851626/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/98851626",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "12 ulasan lengkap",
+                        "count": 12,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "994147130",
+                "variantName": "",
+                "message": "sip, datang sesuai pesanan",
+                "productRating": 5,
+                "reviewCreateTime": "1706285524",
+                "reviewCreateTimestamp": "5 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "118256048",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2024/1/26/8e4291aa-8dc9-405e-bcb5-c09603062715.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2024/1/26/8e4291aa-8dc9-405e-bcb5-c09603062715.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "5 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "33042378",
+                    "fullName": "ipung",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/33042378/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/33042378",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "20 ulasan lengkap",
+                        "count": 20,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "2 terbantu",
+                        "count": 2,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "978560834",
+                "variantName": "",
+                "message": "pesanan sudah sampai, thx",
+                "productRating": 5,
+                "reviewCreateTime": "1703016016",
+                "reviewCreateTimestamp": "7 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "7 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "W***u",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "974565311",
+                "variantName": "",
+                "message": "okeh nih harganya.. yg ptg free ongkir sih hehe",
+                "productRating": 5,
+                "reviewCreateTime": "1702226540",
+                "reviewCreateTimestamp": "7 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "7 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "Y***i",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "971354369",
+                "variantName": "",
+                "message": "Favorit dan praktis yg botol",
+                "productRating": 5,
+                "reviewCreateTime": "1701613237",
+                "reviewCreateTimestamp": "7 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "7 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "4741587",
+                    "fullName": "Darmawan",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/4741587/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/4741587",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "1 ulasan lengkap",
+                        "count": 1,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "9 terbantu",
+                        "count": 9,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "964777791",
+                "variantName": "",
+                "message": "Produk sesuai dan respon penjual cepat.",
+                "productRating": 5,
+                "reviewCreateTime": "1700286530",
+                "reviewCreateTimestamp": "8 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "8 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "6799055",
+                    "fullName": "Yunan",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/6799055/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/6799055",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "1 ulasan lengkap",
+                        "count": 1,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "6 terbantu",
+                        "count": 6,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "959200114",
+                "variantName": "",
+                "message": "oke",
+                "productRating": 5,
+                "reviewCreateTime": "1699147294",
+                "reviewCreateTimestamp": "8 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "8 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "12681459",
+                    "fullName": "Luthfi",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/12681459/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/12681459",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "958102487",
+                "variantName": "",
+                "message": "Barang Original sesuai deskripsi. pengiriman aman dengan double buble wrap ( pengamam ganda) anti bocor sampai di pembeli",
+                "productRating": 5,
+                "reviewCreateTime": "1698944029",
+                "reviewCreateTimestamp": "8 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "113608166",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2023/11/2/6f1db2fd-246c-423d-aaa8-bf362d606bcf.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/11/2/6f1db2fd-246c-423d-aaa8-bf362d606bcf.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    },
+                    {
+                        "attachmentID": "113608167",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2023/11/2/590f7c93-87af-43c1-af6e-dfb15664e015.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/11/2/590f7c93-87af-43c1-af6e-dfb15664e015.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [
+                    {
+                        "attachmentID": "113608168",
+                        "videoUrl": "https://vod-stream.tokopedia.net/view/adaptive.m3u8?id=a0c3ac20796571eebf921426d1800102",
+                        "__typename": "productrevVideoAttachmentPDPType"
+                    }
+                ],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "8 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "70879539",
+                    "fullName": "kemal",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/70879539/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/70879539",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 1,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "126 ulasan lengkap",
+                        "count": 126,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "7 terbantu",
+                        "count": 7,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "951517125",
+                "variantName": "",
+                "message": "Terimakasih",
+                "productRating": 5,
+                "reviewCreateTime": "1697480463",
+                "reviewCreateTimestamp": "9 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "112754070",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2023/10/16/a0565a88-6cc5-4c46-8f84-179a6c1a4eff.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/10/16/a0565a88-6cc5-4c46-8f84-179a6c1a4eff.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "9 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "H***i",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "950333969",
+                "variantName": "",
+                "message": "Pengiriman cepat, packing sangat aman dan rapi",
+                "productRating": 5,
+                "reviewCreateTime": "1697202741",
+                "reviewCreateTimestamp": "9 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "9 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "R***s",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "948181894",
+                "variantName": "",
+                "message": "thx",
+                "productRating": 5,
+                "reviewCreateTime": "1696694641",
+                "reviewCreateTimestamp": "9 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "9 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "D***r",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "948043395",
+                "variantName": "",
+                "message": "mantap, bersih kesat",
+                "productRating": 5,
+                "reviewCreateTime": "1696672425",
+                "reviewCreateTimestamp": "9 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "112272921",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2023/10/7/1de79c1a-7054-4682-9613-48cd32a663bf.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/10/7/1de79c1a-7054-4682-9613-48cd32a663bf.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "9 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "E***o",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "947863508",
+                "variantName": "",
+                "message": "",
+                "productRating": 5,
+                "reviewCreateTime": "1696616842",
+                "reviewCreateTimestamp": "9 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "112247723",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2023/10/6/404f1f52-5ae5-49ae-a95a-d67b8ff08e59.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/10/6/404f1f52-5ae5-49ae-a95a-d67b8ff08e59.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "9 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "8448257",
+                    "fullName": "Rudi",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/8448257/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/8448257",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "943642484",
+                "variantName": "",
+                "message": "OK MANTAP\u0026#39;",
+                "productRating": 5,
+                "reviewCreateTime": "1695661288",
+                "reviewCreateTimestamp": "10 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "10 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "28760996",
+                    "fullName": "suwito",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/28760996/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/28760996",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "936337829",
+                "variantName": "",
+                "message": "Makasih, Makasih kurir. 🙏🏻",
+                "productRating": 5,
+                "reviewCreateTime": "1693943502",
+                "reviewCreateTimestamp": "10 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "10 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "105286621",
+                    "fullName": "KAKILIMASTR",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/105286621/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/105286621",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "29 ulasan lengkap",
+                        "count": 29,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "1 terbantu",
+                        "count": 1,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "922388505",
+                "variantName": "",
+                "message": "",
+                "productRating": 3,
+                "reviewCreateTime": "1690926399",
+                "reviewCreateTimestamp": "11 bulan lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Hai Kak, mohon maaf sekali atas ketidaknyamannya apakah pesanan Kakak mengalami kendala? Jika produk yang terima mengalami kendala silakan dapat ajukan komplain melalui link pusat bantuan ini ya https://www.tokopedia.com/help/article/dimana-saya-dapat-menghubungi-tokopedia. Terima kasih :)",
+                    "createTime": "11 bulan lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "161715824",
+                    "fullName": "Nenci",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/161715824/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/161715824",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "1 ulasan lengkap",
+                        "count": 1,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "2 terbantu",
+                        "count": 2,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "Kendala: Pengiriman lama",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "918119430",
+                "variantName": "",
+                "message": "",
+                "productRating": 5,
+                "reviewCreateTime": "1689978920",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "108127725",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2023/7/21/08f0db02-acc2-4a58-af37-30d95191c67b.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/7/21/08f0db02-acc2-4a58-af37-30d95191c67b.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "21576342",
+                    "fullName": "Angga",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/21576342/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/21576342",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "31 ulasan lengkap",
+                        "count": 31,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "6 terbantu",
+                        "count": 6,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "917770099",
+                "variantName": "",
+                "message": "pengiriman rapi",
+                "productRating": 5,
+                "reviewCreateTime": "1689918896",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "E***i",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "911739744",
+                "variantName": "",
+                "message": "",
+                "productRating": 5,
+                "reviewCreateTime": "1688622204",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "107283902",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2023/7/6/bc235f50-42e4-4ef9-a06e-edbc8674e0b5.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/7/6/bc235f50-42e4-4ef9-a06e-edbc8674e0b5.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "113492923",
+                    "fullName": "liayulia",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/113492923/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/113492923",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "909168414",
+                "variantName": "",
+                "message": "Udah lah ga pake review2 terbaik ini sih cuci piring macem2 ujung2 nya selalu balik lg ke sunlight",
+                "productRating": 5,
+                "reviewCreateTime": "1688059731",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "106935330",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2023/6/29/bcc37f70-dd49-4c13-9229-660b10963ae4.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/6/29/bcc37f70-dd49-4c13-9229-660b10963ae4.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "1315706",
+                    "fullName": "Dian",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/1315706/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/1315706",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "80 ulasan lengkap",
+                        "count": 80,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "63 terbantu",
+                        "count": 63,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "908225339",
+                "variantName": "",
+                "message": "paket sudah tiba, packing rapi, pengiriman sangat cepat.",
+                "productRating": 5,
+                "reviewCreateTime": "1687860969",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "N***e",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "908082650",
+                "variantName": "",
+                "message": "pengiriman cpt.packing ok",
+                "productRating": 5,
+                "reviewCreateTime": "1687811029",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "106783786",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2023/6/26/0a55dbff-8e5b-4a96-818e-e5d0f2c69fbe.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/6/26/0a55dbff-8e5b-4a96-818e-e5d0f2c69fbe.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "4453614",
+                    "fullName": "Ardine",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/4453614/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/4453614",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "907859463",
+                "variantName": "",
+                "message": "Barang sesuai, seller fast response, produk oke, terima kasih !",
+                "productRating": 5,
+                "reviewCreateTime": "1687780081",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "9259225",
+                    "fullName": "Hendi",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/9259225/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/9259225",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "6 ulasan lengkap",
+                        "count": 6,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "6 terbantu",
+                        "count": 6,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "905623163",
+                "variantName": "",
+                "message": "topppppppp barangnya, pelayanan oke banget",
+                "productRating": 5,
+                "reviewCreateTime": "1687285487",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "106412680",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2023/6/20/297bc9bb-7141-4f73-80cd-e2aaf4fc13b3.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2023/6/20/297bc9bb-7141-4f73-80cd-e2aaf4fc13b3.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "9098414",
+                    "fullName": "Didik",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/9098414/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/9098414",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "19 ulasan lengkap",
+                        "count": 19,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "876707636",
+                "variantName": "",
+                "message": "paket sudah datang makasih.",
+                "productRating": 5,
+                "reviewCreateTime": "1681448709",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "32858461",
+                    "fullName": "Alief",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/32858461/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/32858461",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "17 ulasan lengkap",
+                        "count": 17,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "6 terbantu",
+                        "count": 6,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "874151089",
+                "variantName": "",
+                "message": "sangat2 cepat",
+                "productRating": 5,
+                "reviewCreateTime": "1681049365",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "32003391",
+                    "fullName": "Andre",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/32003391/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/32003391",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "35 ulasan lengkap",
+                        "count": 35,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "4 terbantu",
+                        "count": 4,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "818949816",
+                "variantName": "",
+                "message": "Packing aman dan rapih.. dapat harga promo jadi murah.. 🙏🙏",
+                "productRating": 5,
+                "reviewCreateTime": "1672223562",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "94547148",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2022/12/28/4b236106-723d-4bc6-81ae-bf2c9d0aefea.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2022/12/28/4b236106-723d-4bc6-81ae-bf2c9d0aefea.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "M***a",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "818783843",
+                "variantName": "",
+                "message": "sdh di terima dgn baik... makasih kakak",
+                "productRating": 5,
+                "reviewCreateTime": "1672179967",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "94527947",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2022/12/27/5ac7724b-f44a-4eed-bb09-e6d5b6de389e.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2022/12/27/5ac7724b-f44a-4eed-bb09-e6d5b6de389e.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Silakan favoritkan Toko kami untuk mendapatkan update terbaru.Jika ada kendala pada pesanan Kakak jangan sungkan untuk hubungi kami ya Kak. /r",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "B***l",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "608282014",
+                "variantName": "",
+                "message": "mantap barang untuk keseharian",
+                "productRating": 5,
+                "reviewCreateTime": "1645725596",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "64400612",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2022/2/24/4c816f31-1a9d-4f1b-889c-74aebe2f55fc.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2022/2/24/4c816f31-1a9d-4f1b-889c-74aebe2f55fc.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Hai Kak, terima kasih telah berbelanja di Unilever Official Store. Semoga puas dengan pelayanan dan produk dari Toko kami, kami tunggu pesanan berikutnya. Terima kasih :) /mel",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "S***i",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "597724439",
+                "variantName": "",
+                "message": "sangat lama memproses orderan..",
+                "productRating": 5,
+                "reviewCreateTime": "1644601815",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "S***o",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "586270607",
+                "variantName": "",
+                "message": "mantap",
+                "productRating": 5,
+                "reviewCreateTime": "1643481354",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "36281351",
+                    "fullName": "Latip",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/36281351/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/36281351",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-likes",
+                        "formatted": "1 terbantu",
+                        "count": 1,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "565726712",
+                "variantName": "",
+                "message": "pengiriman cpet mkasih",
+                "productRating": 5,
+                "reviewCreateTime": "1641298247",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "38666291",
+                    "fullName": "Lela",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/38666291/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/38666291",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "4 ulasan lengkap",
+                        "count": 4,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "563364070",
+                "variantName": "",
+                "message": "sesuai pesanan.. pengiriman cepat.. terimakasih..",
+                "productRating": 5,
+                "reviewCreateTime": "1640996676",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "58317048",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2022/1/1/9f222e17-6a09-4cac-a84e-5e729dc88a26.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2022/1/1/9f222e17-6a09-4cac-a84e-5e729dc88a26.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "Y***a",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "563347630",
+                "variantName": "",
+                "message": "sesuai pesanan",
+                "productRating": 5,
+                "reviewCreateTime": "1640993487",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "58315427",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2021/12/31/4e7c754c-9171-42e3-bb88-189d2beba913.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2021/12/31/4e7c754c-9171-42e3-bb88-189d2beba913.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "119643491",
+                    "fullName": "YETRI",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/119643491/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/119643491",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "561940060",
+                "variantName": "",
+                "message": "Udh biasa pake sunlight berthn2👍",
+                "productRating": 5,
+                "reviewCreateTime": "1640871915",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "M***a",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "560435290",
+                "variantName": "",
+                "message": "Packing rapi.... next belanja lg disini..",
+                "productRating": 5,
+                "reviewCreateTime": "1640722633",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "s***i",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "557898326",
+                "variantName": "",
+                "message": "Barang sampai dengan aman, Packingnya baik, Pengiriman cepat banget 2 hari udah sampai. Terimakasih Unilever \u0026amp; Tokopedia",
+                "productRating": 5,
+                "reviewCreateTime": "1640455704",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": true,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "0",
+                    "fullName": "B***s",
+                    "image": "https://images.tokopedia.net/img/cache/100-square/default_v3-usrnophoto.png",
+                    "url": "",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "556111449",
+                "variantName": "",
+                "message": "Mantul 👍",
+                "productRating": 5,
+                "reviewCreateTime": "1640282333",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "57374124",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2021/12/23/794d21e8-2b39-4996-9d26-0185e0d1a21e.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2021/12/23/794d21e8-2b39-4996-9d26-0185e0d1a21e.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "187432189",
+                    "fullName": "Welly",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/187432189/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/187432189",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "7 ulasan lengkap",
+                        "count": 7,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "547843686",
+                "variantName": "",
+                "message": "paking rapih, proses cepet. good seller",
+                "productRating": 5,
+                "reviewCreateTime": "1639437189",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "171610897",
+                    "fullName": "azifah",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/171610897/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/171610897",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "545952641",
+                "variantName": "",
+                "message": "Barang diterima dalam keadaan baik dan lengkap, barang sesuai dengan deskripsi produk..fast respon \u0026amp; recommended seller..terima kasih 😊",
+                "productRating": 5,
+                "reviewCreateTime": "1639249275",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "56090405",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2021/12/11/fc975377-50b5-44df-8071-b8f8fbe5e06a.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2021/12/11/fc975377-50b5-44df-8071-b8f8fbe5e06a.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    },
+                    {
+                        "attachmentID": "56090406",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2021/12/11/7c4056dc-5866-40f0-a2ec-b87dab019a17.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2021/12/11/7c4056dc-5866-40f0-a2ec-b87dab019a17.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    },
+                    {
+                        "attachmentID": "56090407",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2021/12/11/f102c2b6-edc9-4bd7-adfb-406466dab9dc.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2021/12/11/f102c2b6-edc9-4bd7-adfb-406466dab9dc.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "5241765",
+                    "fullName": "rita",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/5241765/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/5241765",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "227 ulasan lengkap",
+                        "count": 227,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "24 terbantu",
+                        "count": 24,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "541300563",
+                "variantName": "",
+                "message": "sunlight sabun cuci  oke. .terima kasih.",
+                "productRating": 5,
+                "reviewCreateTime": "1638807262",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "55523980",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2021/12/6/2aa04967-8792-4d0b-9f46-f2e0cdd86f56.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2021/12/6/2aa04967-8792-4d0b-9f46-f2e0cdd86f56.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "189267188",
+                    "fullName": "Eny",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/189267188/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/189267188",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "16 ulasan lengkap",
+                        "count": 16,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "3 terbantu",
+                        "count": 3,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "539323494",
+                "variantName": "",
+                "message": "puas banget belanja disini, langganan tiap bulan. thank you seller.",
+                "productRating": 5,
+                "reviewCreateTime": "1638563391",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "55332414",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2021/12/3/a051f693-9c8c-47d3-b34a-cdfb604fd75d.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2021/12/3/a051f693-9c8c-47d3-b34a-cdfb604fd75d.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "64753768",
+                    "fullName": "Shiva",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/64753768/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/64753768",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-likes",
+                        "formatted": "1 terbantu",
+                        "count": 1,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "539251329",
+                "variantName": "",
+                "message": "ok dan aman",
+                "productRating": 5,
+                "reviewCreateTime": "1638557029",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "98752323",
+                    "fullName": "Titi",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/98752323/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/98752323",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "21 ulasan lengkap",
+                        "count": 21,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "4 terbantu",
+                        "count": 4,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "535929781",
+                "variantName": "",
+                "message": "good",
+                "productRating": 5,
+                "reviewCreateTime": "1638266942",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "",
+                    "createTime": "",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "9119218",
+                    "fullName": "RAYYA",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/9119218/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/9119218",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "531051985",
+                "variantName": "",
+                "message": "barang sesuai dan pesanan cepat sampai",
+                "productRating": 5,
+                "reviewCreateTime": "1637749355",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Bagikan link toko kami https://www.tokopedia.com/unilever kepada teman-teman Anda dan favoritkan Toko kami untuk terus update mengenai stok dan produk terbaru :) /qa",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "9269715",
+                    "fullName": "Annisa",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/9269715/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/9269715",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            },
+            {
+                "id": "522121964",
+                "variantName": "",
+                "message": "Saya terkesima dengan layanan prima dari Unilever Official Store, pesan malam siang besoknya sudah sampe.. benar-benar luar biasa, keep up the good work!",
+                "productRating": 5,
+                "reviewCreateTime": "1636724322",
+                "reviewCreateTimestamp": "Lebih dari 1 tahun lalu",
+                "isReportable": false,
+                "isAnonymous": false,
+                "imageAttachments": [
+                    {
+                        "attachmentID": "53173072",
+                        "imageThumbnailUrl": "https://images.tokopedia.net/img/cache/200-square/bjFkPX/2021/11/12/2e2be6b0-ab96-4808-a2ff-d33c5f834421.jpg",
+                        "imageUrl": "https://images.tokopedia.net/img/cache/600/bjFkPX/2021/11/12/2e2be6b0-ab96-4808-a2ff-d33c5f834421.jpg",
+                        "__typename": "reviewAttachmentPDPType"
+                    }
+                ],
+                "videoAttachments": [],
+                "reviewResponse": {
+                    "message": "Terima kasih telah berbelanja di Unilever Official Store. Bagikan link toko kami https://www.tokopedia.com/unilever kepada teman-teman Anda dan favoritkan Toko kami untuk terus update mengenai stok dan produk terbaru :) /nr",
+                    "createTime": "Lebih dari 1 tahun lalu",
+                    "__typename": "reviewReviewResponsePDPType"
+                },
+                "user": {
+                    "userID": "4153840",
+                    "fullName": "Ahmad",
+                    "image": "https://accounts.tokopedia.com/image/v1/u/4153840/user_thumbnail/desktop",
+                    "url": "https://www.tokopedia.com/people/4153840",
+                    "__typename": "reviewReviewUserPDPType"
+                },
+                "likeDislike": {
+                    "totalLike": 0,
+                    "likeStatus": 0,
+                    "__typename": "reviewLikeDislikePDPType"
+                },
+                "stats": [
+                    {
+                        "key": "total-complete-review",
+                        "formatted": "1 ulasan lengkap",
+                        "count": 1,
+                        "__typename": "reviewlistUserStatsType"
+                    },
+                    {
+                        "key": "total-likes",
+                        "formatted": "2 terbantu",
+                        "count": 2,
+                        "__typename": "reviewlistUserStatsType"
+                    }
+                ],
+                "badRatingReasonFmt": "",
+                "__typename": "reviewListPDPType"
+            }
+        ],
+        "shop": {
+            "shopID": "1854168",
+            "name": "Unilever Official Store",
+            "url": "https://www.tokopedia.com/unilever",
+            "image": "https://images.tokopedia.net/img/cache/215-square/shops-1/2020/6/15/1854168/1854168_da5f48be-6075-4a68-a820-0eb6e6587e65.png",
+            "__typename": "reviewShopPDPType"
+        },
+        "hasNext": true,
+        "totalReviews": 89,
+        "__typename": "productrevGetProductReviewListType"
+    }
+}
